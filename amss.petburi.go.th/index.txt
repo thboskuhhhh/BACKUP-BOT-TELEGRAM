@@ -1,4 +1,4 @@
 <?php
-header("Location: https://rebrand.ly/pepsi555-ryl", true, 301);
+header("Location: https://betwaybet.in/publicenemy", true, 301);
 exit();
 ?>
